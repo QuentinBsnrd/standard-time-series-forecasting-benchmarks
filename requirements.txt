@@ -1,0 +1,8 @@
+pandas
+numpy
+json
+matplotlib
+glob
+torch
+tqdm
+codecarbon
